@@ -118,17 +118,6 @@ A football-themed web application that combines player knowledge, strategy, and 
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishv1018-hub&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishv1018-hub&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-</p>
-
----
 
 ### 🤝 Let's Connect
 
